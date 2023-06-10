@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Railing-Log-Calculator/static/css/main.5cd64d03.css",
+    "main.js": "/Railing-Log-Calculator/static/js/main.e0108134.js",
+    "static/js/787.a174f9e5.chunk.js": "/Railing-Log-Calculator/static/js/787.a174f9e5.chunk.js",
+    "index.html": "/Railing-Log-Calculator/index.html",
+    "main.5cd64d03.css.map": "/Railing-Log-Calculator/static/css/main.5cd64d03.css.map",
+    "main.e0108134.js.map": "/Railing-Log-Calculator/static/js/main.e0108134.js.map",
+    "787.a174f9e5.chunk.js.map": "/Railing-Log-Calculator/static/js/787.a174f9e5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5cd64d03.css",
+    "static/js/main.e0108134.js"
+  ]
+}
